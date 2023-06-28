@@ -5,7 +5,7 @@
 //In implicit casting, the conversion is done automatically by the Java compiler without requiring any explicit casting syntax.
 
 
-package conversionandcasting;
+package JAVA.conversionandcasting;
 
 public class castingImplicit{
 

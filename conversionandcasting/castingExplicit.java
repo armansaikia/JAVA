@@ -1,7 +1,7 @@
 // used to convert a value of a larger data type to a value of a smaller data type. 
 //It requires explicit syntax using parentheses and can potentially result in loss of information or precision.
 
-package conversionandcasting;
+package JAVA.conversionandcasting;
 
  class castingExplicit {
 

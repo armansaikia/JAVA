@@ -1,6 +1,6 @@
-package Variables;
+package JAVA.Variables.Datatypes;
 
-public class charexample {
+ class charexample {
         public static void main(String[] args) {
             char grade = 'A'; // Declare a char variable
 

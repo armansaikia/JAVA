@@ -1,4 +1,4 @@
-package Variables;
+package JAVA.Variables.Datatypes;
 
 public class booleanexample {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Operators;
+package JAVA.Operators.Arithmetic;
 
-public class increment {
+ class Increment {
 
     public static void main(String args[]){
 

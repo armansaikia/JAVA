@@ -1,4 +1,4 @@
-package Variables;
+package JAVA.Variables.Datatypes;
 
 //Variables are used to store data.
 

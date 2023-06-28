@@ -1,4 +1,4 @@
-package Variables;
+package JAVA.Variables.Datatypes;
 
 public class stringexample3 {
         public static void main(String args[]){

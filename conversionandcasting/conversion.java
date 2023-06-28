@@ -1,4 +1,4 @@
-package conversionandcasting;
+package JAVA.conversionandcasting;
 
  class conversion {
 
