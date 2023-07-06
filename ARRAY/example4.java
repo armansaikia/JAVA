@@ -15,7 +15,7 @@ public class example4 {
 
             for(int i=0;i<=4;i++){
 
-                 System.out.println(nums[0]); 
+                 System.out.println(nums[i]); //change the value of i from 0 to i
        
 
             }
